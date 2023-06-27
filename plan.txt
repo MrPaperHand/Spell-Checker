@@ -1,0 +1,7 @@
+Day 1: 6/22/23
+Tasks: 1. Refamiliarize myself with JavaScript. 
+       2. Watch some Cypress videos
+Accomplished: Accomplished task 2. Didn't really feel like watching JavaScript kinda borba. Cypress looks really cool though. Unfortunatly thats
+              all I got from watching a  video and the beggining of a video. Also started the Cypress thing. Need to get it to run properly, will
+              see how long that takes.
+Notes:
